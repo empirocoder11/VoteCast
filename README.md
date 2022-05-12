@@ -2,6 +2,9 @@
 
 ## VoteCast is an Ethereum Blockchain based decentralized application which ensures secure and transparent voting scheme for organizing public and private elections.
 
+https://user-images.githubusercontent.com/57556534/168043810-80422b1b-8bba-4331-ba6f-5b8d49def5cd.mp4
+
+
 
 ## :bulb: Features
 :arrow_forward:  **Secure Voter Registration** <br>
